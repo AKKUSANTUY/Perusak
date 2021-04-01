@@ -6,15 +6,15 @@ pkg install git python2 -y
 
 pip2 install requests -y
 
-git clone https://github.com/AKKUSANTUY/perusak
+git clone https://github.com/AKKUSANTUY/Perusak
 
-cd perusak
+cd Perusak
 
-python2 perusak.py
+python2 Perusak.py
 
 ┌∩┐⎝◣⏝◢⎠┌∩┐︻╦̵̵͇̿̿̿̿╤────►
 
-# MASUKAN NOMER TARGET
+# SETELAH ITU MASUKAN NOMER TARGET
 
 
 https://www.facebook.com/SANTRI.CYBER.CUK 
